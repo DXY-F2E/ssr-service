@@ -1,0 +1,30 @@
+{
+  "name": "ssr-service",
+  "version": "1.0.0",
+  "description": "one serivce based on puppeteer to get page for server side render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "lint": "eslint --ext .js app",
+    "fix": "eslint --fix --ext .js app"
+  },
+  "author": "xiangxuezhang",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "2.3.0",
+    "koa-bodyparser": "4.2.0",
+    "koa-router": "7.2.1",
+    "puppeteer": "0.10.2",
+    "url-parse": "1.1.9"
+  },
+  "devDependencies": {
+    "eslint": "4.6.1",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1",
+    "nodemon": "1.12.0"
+  }
+}
