@@ -12,11 +12,11 @@
   "author": "xiangxuezhang",
   "license": "MIT",
   "dependencies": {
-    "koa": "2.3.0",
-    "koa-bodyparser": "4.2.0",
-    "koa-router": "7.2.1",
-    "puppeteer": "0.10.2",
-    "url-parse": "1.1.9"
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "puppeteer": "^0.13.0",
+    "url-parse": "^1.2.0"
   },
   "devDependencies": {
     "eslint": "4.6.1",
