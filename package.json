@@ -15,7 +15,7 @@
     "koa": "^2.4.1",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.3.0",
-    "puppeteer": "^0.13.0",
+    "puppeteer": "^5.2.1",
     "url-parse": "^1.2.0"
   },
   "devDependencies": {
